@@ -1,2 +1,2 @@
-# desenvolvimentodejogos
+# pensamentocomputacional
 exercicio 
