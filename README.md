@@ -1,2 +1,2 @@
 # pensamentocomputacional
-exercicio 
+Arquivos do Scratch
